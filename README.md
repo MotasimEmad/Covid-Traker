@@ -1,6 +1,6 @@
 # covid
 
-A new Flutter project.
+An app that traker COVID-19 situation around the world. using https://corona.lmao.ninja/v2/all api.
 
 ## Getting Started
 
